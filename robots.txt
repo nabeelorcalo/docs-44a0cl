@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-tsgxmg.syndicatealpha.ai/sitemap.xml
